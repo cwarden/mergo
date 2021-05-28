@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/imdario/mergo"
+	"github.com/cwarden/mergo"
 )
 
 func TestIssue61MergeNilMap(t *testing.T) {
